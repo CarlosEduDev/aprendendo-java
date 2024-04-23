@@ -1,6 +1,5 @@
 # O que eu aprendi/estudei:
 - O que é Java
-- POO
 - JVM
 - Ambiente de desenvolvimento
 - Tipos primitivos: byte, short, int, long
